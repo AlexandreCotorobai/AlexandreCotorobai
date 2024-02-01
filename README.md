@@ -25,6 +25,10 @@
 * [AED](https://github.com/AlexandreCotorobai/AED)
 * [SM](https://github.com/AlexandreCotorobai/SM)
 * [SO](https://github.com/AlexandreCotorobai/SO)
+* [PDS](https://github.com/AlexandreCotorobai/PDS)
+* [CD](https://github.com/AlexandreCotorobai/CD)
+* [C](https://github.com/AlexandreCotorobai/C)
+
 
 ### Projects
 * [AED 1st Project](https://github.com/AlexandreCotorobai/AED_project)
@@ -33,3 +37,19 @@
 * [SO 2nd Project](https://github.com/AlexandreCotorobai/SO_project2)
 * [IHC Project](https://github.com/AlexandreCotorobai/IHC_Project)
 * [BD Project](https://github.com/AlexandreCotorobai/AnimeDB)
+* [C ADV Project](https://github.com/AlexandreCotorobai/C_adv_project)
+
+## Third Year
+### Classes
+* [IA](https://github.com/AlexandreCotorobai/IA)
+* [IES](https://github.com/AlexandreCotorobai/IES_107849)
+* [CBD](https://github.com/AlexandreCotorobai/CBD)
+
+### Projects
+* [SIO 1st Project](https://github.com/AlexandreCotorobai/SIO_project1)
+* [IA Project](https://github.com/AlexandreCotorobai/IA_project)
+* [CSLP Project](https://github.com/AlexandreCotorobai/CSLP)
+* [IES Project](https://github.com/AlexandreCotorobai/IES_CountMeIn)
+* [CSLP Presentation](https://github.com/AlexandreCotorobai/Rust_CSLP)
+
+
