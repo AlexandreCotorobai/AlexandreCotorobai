@@ -44,6 +44,7 @@
 * [IA](https://github.com/AlexandreCotorobai/IA)
 * [IES](https://github.com/AlexandreCotorobai/IES_107849)
 * [CBD](https://github.com/AlexandreCotorobai/CBD)
+* [TQS](https://github.com/AlexandreCotorobai/TQS_107849)
 
 ### Projects
 * [SIO 1st Project](https://github.com/AlexandreCotorobai/SIO_project1)
@@ -51,5 +52,5 @@
 * [CSLP Project](https://github.com/AlexandreCotorobai/CSLP)
 * [IES Project](https://github.com/AlexandreCotorobai/IES_CountMeIn)
 * [CSLP Presentation](https://github.com/AlexandreCotorobai/Rust_CSLP)
-
+* [TQS Project](https://github.com/TQS-MyVet)
 
