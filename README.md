@@ -45,6 +45,7 @@
 * [IES](https://github.com/AlexandreCotorobai/IES_107849)
 * [CBD](https://github.com/AlexandreCotorobai/CBD)
 * [TQS](https://github.com/AlexandreCotorobai/TQS_107849)
+* [APSEI](https://github.com/AlexandreCotorobai/APSEI)
 
 ### Projects
 * [SIO 1st Project](https://github.com/AlexandreCotorobai/SIO_project1)
@@ -54,3 +55,19 @@
 * [CSLP Presentation](https://github.com/AlexandreCotorobai/Rust_CSLP)
 * [TQS Project](https://github.com/TQS-MyVet)
 
+
+# Master's Degree
+
+### First Year
+* [CV Paper](https://github.com/AlexandreCotorobai/mei-cv-project/blob/main/CV_paper.pdf)
+* [CV Project](https://github.com/AlexandreCotorobai/mei-cv-project)
+* [AA Projects](https://github.com/AlexandreCotorobai/AA)
+* [CAA Project 1](https://github.com/AlexandreCotorobai/Projeto-CAA-1)
+* [CAA Project 2](https://github.com/AlexandreCotorobai/Projeto-CAA-2)
+* [AS Individual Project](https://github.com/AlexandreCotorobai/eShop)
+* [AS Project 2](https://github.com/AlexandreCotorobai/Projeto-AS-2)
+* [SO Project 1](https://github.com/andreaoliveira9/Projeto-SO-Sim)
+* [SO Project 2](https://github.com/andreaoliveira9/Projeto-SO-Opt)
+* [TAI Project 1](https://github.com/AlexandreCotorobai/Projeto-TAI-1)
+* [TAI Project 2](https://github.com/AlexandreCotorobai/Projeto-TAI-2)
+* [TAI Project 3](https://github.com/AlexandreCotorobai/Projeto-TAI-3)
