@@ -54,6 +54,7 @@
 * [IES Project](https://github.com/AlexandreCotorobai/IES_CountMeIn)
 * [CSLP Presentation](https://github.com/AlexandreCotorobai/Rust_CSLP)
 * [TQS Project](https://github.com/TQS-MyVet)
+* [TAA Projects](https://github.com/AlexandreCotorobai/TAA_Projects)
 
 
 # Master's Degree
@@ -71,3 +72,5 @@
 * [TAI Project 1](https://github.com/AlexandreCotorobai/Projeto-TAI-1)
 * [TAI Project 2](https://github.com/AlexandreCotorobai/Projeto-TAI-2)
 * [TAI Project 3](https://github.com/AlexandreCotorobai/Projeto-TAI-3)
+* [VI Project](https://github.com/AlexandreCotorobai/Projeto-VI)
+* [VI Paper](https://github.com/AlexandreCotorobai/Projeto-VI/tree/main/paper)
