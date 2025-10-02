@@ -74,3 +74,6 @@
 * [TAI Project 3](https://github.com/AlexandreCotorobai/Projeto-TAI-3)
 * [VI Project](https://github.com/AlexandreCotorobai/Projeto-VI)
 * [VI Paper](https://github.com/AlexandreCotorobai/Projeto-VI/tree/main/paper)
+* [IM Project 1](https://github.com/AlexandreCotorobai/Projeto-IM-1)
+* [IM Project 2](https://github.com/AlexandreCotorobai/Projeto-IM-2)
+* [IM Project 3](https://github.com/AlexandreCotorobai/Projeto-IM-3)
